@@ -14,7 +14,7 @@ public class Proyecto03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("El IDE de programacoión es Apache Netbeans y usamos Java y Python como lenguaes de programación");
     }
     
 }
